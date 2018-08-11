@@ -1,1 +1,1 @@
-# VG_SELENIUM_AUTOMATETEST
+# VG_Selenium_AutomatesTest
